@@ -20,5 +20,6 @@ This notebook performs data cleaning, exploratory data analysis (EDA), and visua
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/anandtalawar13/covid19_dashboard.git
+   git clone https://github.com/anandtalawar13/COVID19-Data-Analysis-Dashboard
+
 
