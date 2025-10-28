@@ -28,6 +28,21 @@ It features:
 - **Vaccination Progress**: % fully vaccinated over time
 - **Bubble Chart**: Total cases vs deaths per million, scaled by population
 
+## Installation
+```bash
+# Clone the repository
+git clone https://github.com/anandtalawar13/COVID19-Data-Analysis-Dashboard.git
+cd COVID19-Data-Analysis-Dashboard
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the dashboard
+python app.py
+```
+Then open your browser at: `http://127.0.0.1:8050/`
+
+
 ## Data Source
 - [Our World in Data – COVID-19 Dataset](https://ourworldindata.org/coronavirus)
 
